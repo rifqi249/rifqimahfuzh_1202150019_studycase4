@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">RIFQIMAHFUZH_1202152323_studycase4</string>
+    <string-array name="namaMhs">
+        <item>Rifqi</item>
+        <item>Dina</item>
+        <item>Rian</item>
+        <item>Gina</item>
+        <item>Osas</item>
+        <item>Reno</item>
+        <item>Lina</item>
+        <item>Roi</item>
+        <item>Shifa</item>
+        <item>Miracle</item>
+        <item>Abed</item>
+        <item>Misery</item>
+        <item>Dendi</item>
+    </string-array>
+</resources>
